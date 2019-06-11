@@ -4,7 +4,7 @@ Lista de scripts powershell utilizados no dia a dia
 ## Sumário
 * [Propósito](#proposito)
 * [Scripts](#scripts)
-* [Contribuição](#contribuição)
+* [Contribuição](#contribuicao)
 
 ## Propósito
 Repositório para adicionar scripts de automação powershell para execução de tarefas do dia a dia.
