@@ -1,5 +1,5 @@
 # Script PowerShell para Download de backup do blobstorage para VM no Azure
-# Autor: Sidney Oliviera Cirqueira
+# Autor: Sidney Oliveira Cirqueira
 # Engenheiro de Dados | Analista de Banco de Dados 
 
 # Pre-Requisitos:
