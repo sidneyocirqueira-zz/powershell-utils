@@ -4,11 +4,8 @@
 
 # Pre-Requisitos:
 # 1 - PowerShell e modulo do Azure devidamente instalados no servidor de destino;
-# Referencia: https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-2.2.0
 # 2 - Versao do AzCopy devidamente instalada no servidor de destino;
-# Referencia: https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
 # 3 - Permissao administrativa de acesso ao BlobStorage;
-# Referencia: https://docs.microsoft.com/bs-latn-ba/azure/storage/common/storage-access-blobs-queues-portal
 
 # Inicio Script 
 
