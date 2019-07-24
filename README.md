@@ -14,7 +14,7 @@ Repositório para adicionar scripts de automação powershell para execução de
  1. [Download arquivos do blob storage para VMs no Azure](https://github.com/sidneyocirqueira/powershell-utils/blob/master/Scripts/Download%20file%20do%20blob%20storage.ps1)
 
 ## Referências
- 1. [PowerShell e modulo do Azure](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-2.2.0)
+ 1. [PowerShell e modulo do Azure](https://docs.microsoft.com/en-us/powershell/azure/azurerm/install-azurerm-ps?view=azurermps-6.13.0)
  2. [AzCopy](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10)
  3. [Acessos BlobStorage](https://docs.microsoft.com/bs-latn-ba/azure/storage/common/storage-access-blobs-queues-portal)
 
